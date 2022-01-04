@@ -1,11 +1,10 @@
-### Hi there 👋
-
+### Hi there 👋 i'm 'micky' 💻 🇨🇴 🇦🇷
 <!--
 **mickyrendon/mickyrendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on personal proyects as mi own webpage, [bensof-estampados](https://mickyrendon.github.io/bensof-estampados/) and [elSistema]()
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
