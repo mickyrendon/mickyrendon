@@ -1,17 +1,17 @@
 ### Hi there 👋 i'm 'micky' 💻 🇨🇴 🇦🇷
 - 🔭 I’m currently working on personal proyects as mi own webpage, [bensof-estampados](https://mickyrendon.github.io/bensof-estampados/) and [elSistema](https://mickyrendon.github.io/elSistema/)
-- - 🌱 I’m currently learning 
-<!--
-**mickyrendon/mickyrendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Because repetition is the key to learning I’m currently reviewing javaScript in [freeCodeCamp](https://www.freecodecamp.org/), css in [web.dev](https://web.dev/), english.
+- 🌱 in this year i'll gonna learn typeScript, angular or react and figma...
+- 💬 i'm 
+- ⚡ I like 
+  - 🎨 design
+  - 📷 photography
+  - ✈️ travel
+  - 🌎 cultures
+  - 🏃 sports
+  
+- 📫 you can find me: 
+  - [twitter](https://twitter.com/mickyrend)
+  - [linkedIn](www.linkedin.com/in/rendon-miguel)
+  - mickyrendon42@gmail.com
+ 
