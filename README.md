@@ -1,5 +1,5 @@
 ### Hi there 👋 i'm 'micky' 💻 🇨🇴 🇦🇷
-- 🔭 I’m currently working on personal proyects as my own webpage 
+- 🔭 I’m currently working on personal proyects for me and my friends
   - [mickyRendon-portfolio](https://mickyrendon.github.io/mickyRendon-portfolio/)
   - [bensof-estampados](https://mickyrendon.github.io/bensof-estampados/) and 
   - [elSistema](https://mickyrendon.github.io/elSistema/)
