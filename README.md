@@ -43,3 +43,5 @@
 
 -<img src="https://camo.githubusercontent.com/5894b337e4f1b104b6e08f6b707eeeba46cd4f7a93ac5d6e68fe9e87eb44242a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496c6c7573747261746f722d3333333333333f7374796c653d666c6174266c6f676f3d61646f62652d696c6c7573747261746f72" alt="Illustrator" data-canonical-src="https://img.shields.io/badge/-Illustrator-333333?style=flat&amp;logo=adobe-illustrator" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/85ce6eb93518a6cfd2459c5af92a44ff6e279c0780d57c8cca92816dc550e23e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50686f746f73686f702d3333333333333f7374796c653d666c6174266c6f676f3d61646f62652d70686f746f73686f70" alt="Photoshop" data-canonical-src="https://img.shields.io/badge/-Photoshop-333333?style=flat&amp;logo=adobe-photoshop" style="max-width: 100%;">
+
+-mySQL
