@@ -1,4 +1,4 @@
-### Hi there 👋 i'm 'micky' 💻 🇨🇴 🇦🇷
+### Hi there 👋 i'm 'micky' 💻 🇨🇴 🇦🇷 🇨🇱
 - 🔭 I’m currently working on personal proyects for me and my friends
   - [mickyRendon-portfolio](https://mickyrendon.github.io/mickyRendon-portfolio/)
   - [bensof-estampados](https://mickyrendon.github.io/bensof-estampados/) and 
