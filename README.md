@@ -11,7 +11,7 @@
 - 🌱 i'm learning to play ukelele 🎸
 - 🌱 in this year i'll gonna learn typeScript, angular or react and figma...
 - 💬 i'm Colombian guy who lives in Argentina, i learn on my own time, i like to travel and for that reason y decided study this carrer, so i hope to work remotely          while i working
-     ♈ my zodiac sign is Aries
+     ♈ my zodiac sign is Aries and i enjoy photography
 - ⚡ I like 
   - 📖 to Learn
   - 🎨 design
