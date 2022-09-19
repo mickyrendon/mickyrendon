@@ -1,15 +1,15 @@
 ### Hi there 👋 i'm 'micky' 💻 🇨🇴 🇦🇷 🇨🇱
 - 🔭 I’m currently working on personal proyects for me and my friends
-  - [mickyRendon-portfolio](https://mickyrendon.github.io/mickyRendon-portfolio/)
   - [bensof-estampados](https://mickyrendon.github.io/bensof-estampados/) and 
   - [elSistema](https://mickyrendon.github.io/elSistema/)
-- 🌱 Because repetition is the key to learning I’m currently reviewing 
-  - javaScript in [freeCodeCamp](https://www.freecodecamp.org/)
-  - css in [web.dev](https://web.dev/)
-  - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 english.
+- 🌱I’m currently studying 
+  - fullStack js PERN in [Platzi](https://platzi.com/)
+  - collaborating on spanish translation team in [freeCodeCamp](https://www.freecodecamp.org/)
+  - React in [Open Bootcamp](https://campus.open-bootcamp.com/)
+  - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 english in [Platzi](https://platzi.com/)
 - 🌱 i'm learning to play ukelele 🎸
-- 🌱 in this year i'll gonna learn typeScript, angular or react and figma...
-- 💬 i'm Colombian guy who lives in Argentina, i learn on my own time, i like to travel and for that reason y decided study this carrer, so i hope to work remotely          while i working
+- 🌱 in this year i'll gonna learn typeScript, React and UI...
+- 💬 i'm Colombian guy who lives in Chile, i learn on my own time, i like to travel and for that reason y decided to study this carrer, so i hope to work remotely while i working
      ♈ my zodiac sign is Aries and i enjoy photography 📷
 - ⚡ I like 
   - 📖 to Learn
@@ -45,3 +45,4 @@
 <img src="https://camo.githubusercontent.com/85ce6eb93518a6cfd2459c5af92a44ff6e279c0780d57c8cca92816dc550e23e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50686f746f73686f702d3333333333333f7374796c653d666c6174266c6f676f3d61646f62652d70686f746f73686f70" alt="Photoshop" data-canonical-src="https://img.shields.io/badge/-Photoshop-333333?style=flat&amp;logo=adobe-photoshop" style="max-width: 100%;">
 
 -mySQL
+-Figma
