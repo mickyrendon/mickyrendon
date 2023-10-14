@@ -1,18 +1,17 @@
 ### Hi there 👋 i'm 'micky' 💻 🇨🇴 🇦🇷 🇨🇱
   Check out my portfolio!
   -[mickyRendon](https://mickyrendon.github.io/mickyRendon-portfolio/)
-- 🔭 I’m currently working on personal proyects for me and my friends
+- 🔭 I’m currently working on personal proyects for me and my friends as UX/UI developer
   - [bensof-estampados](https://mickyrendon.github.io/bensof-estampados/) and 
   - [elSistema](https://mickyrendon.github.io/elSistema/)
 - 🌱I’m currently studying 
   - fullStack js PERN in [Platzi](https://platzi.com/)
   - collaborating on spanish translation team in [freeCodeCamp](https://www.freecodecamp.org/)
-  - React in [Open Bootcamp](https://campus.open-bootcamp.com/)
+  - React Native in [Youtube ATL academy](https://www.youtube.com/watch?v=Dl8x8EWXq8s&t=283s)
   - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 english in [Platzi](https://platzi.com/)
 - 🌱 i'm learning to play ukelele 🎸
-- 🌱 in this year i'll gonna learn typeScript, React and UI...
-- 💬 i'm Colombian guy who lives in Chile, i learn on my own time, i like to travel and for that reason y decided to study this carrer, so i hope to work remotely while i working
-     ♈ my zodiac sign is Aries and i enjoy photography 📷
+- 💬 i'm Colombian guy who lives in Chile, autodidact, passionate for photography, design and sports
+     ♈ my zodiac sign is Aries 
 - ⚡ I like 
   - 📖 to Learn
   - 🎨 design
